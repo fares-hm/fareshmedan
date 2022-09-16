@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfares=self.webpackChunkfares||[]).push([[350],{8350:function(e,a,s){e.exports=s.p+"static/media/creative-bulb.aaa1dcb4178d95736d30.md"}}]);

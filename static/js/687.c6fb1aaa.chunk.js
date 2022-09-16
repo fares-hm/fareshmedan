@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfares=self.webpackChunkfares||[]).push([[687],{687:function(e,s,a){e.exports=a.p+"static/media/apple-usb.488abf75e06a1fe60250.md"}}]);

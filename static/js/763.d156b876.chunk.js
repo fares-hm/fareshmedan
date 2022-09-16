@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfares=self.webpackChunkfares||[]).push([[763],{9763:function(e,a,s){e.exports=s.p+"static/media/creative-art.2eb87d90ab3d567e2d54.md"}}]);

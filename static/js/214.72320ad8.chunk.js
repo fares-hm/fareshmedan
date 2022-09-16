@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfares=self.webpackChunkfares||[]).push([[214],{7214:function(e,s,c){e.exports=c.p+"static/media/work-space.7348c19231bcb48e0837.md"}}]);

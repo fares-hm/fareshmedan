@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfares=self.webpackChunkfares||[]).push([[825],{7825:function(e,c,s){e.exports=s.p+"static/media/iphone-8.ed29cc1cc0f098f253ac.md"}}]);
